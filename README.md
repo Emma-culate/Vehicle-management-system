@@ -17,6 +17,8 @@ A simple Vehicle Management System built using **VB.NET** and **Windows Forms** 
 ## Technologies Used
 - Visual Basic .NET (VB.NET)
 - Windows Forms
+## Screenshot
+![Vehicle Management System](screenshot.png)
 
 ## Author
 **Emma-culate** — Vehicle Management System project
