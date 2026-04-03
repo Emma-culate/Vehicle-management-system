@@ -14,9 +14,8 @@ A simple Vehicle Management System built using **VB.NET** and **Windows Forms** 
 3. Click **Clear** to reset all input fields
 4. Select a row in the table and click **Delete** to remove a vehicle record
 
-5. 
 ## Screenshot
-![Vehicle Management System](Screenshot.png)
+![Vehicle Management System](screenshot.png)
 
 ## Author
 **Emma-culate** — Vehicle Management System project
